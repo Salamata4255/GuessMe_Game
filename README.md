@@ -3,7 +3,7 @@ A game that tests your general knowledge in Mathematics, Geography, French, Rap,
 In order to win, the user have to get all 5 questions from each category correct. 
 
 
-** All instructions are within the game
+*All instructions are within the game
 
 
 # How to run the game 
